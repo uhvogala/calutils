@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from icalendar import Calendar, Event, vDDDTypes, cal
+from icalendar import Calendar, Event, vDDDTypes
 from mccalfix import McCalFixer
 from dateutil import parser
 import datetime
@@ -22,11 +22,10 @@ class CalEditor(object):
             self.cal_str = self.cal.from_ical(icalfile.read())
             
     def export_json(self, filename):
-        json_str = self.export_json_str(self.cal)
-        self._write_file(filename, json_str)
+        json_str = self.export_json_list(self.cal)
+        self._write_file(filename, json_str, is_json=True)
         
-            
-    def export_json_str(self, cal):
+    def export_json_list(self, cal):
         events = []
         for event in cal.subcomponents:
             json_event = {}
@@ -36,13 +35,16 @@ class CalEditor(object):
                 else:
                     json_event[key] = event[key]
             events.append(json_event)
+        return events
+            
+    def export_json_str(self, cal):
+        events = self.export_json_list(cal)
         json_events = json.dumps(events, ensure_ascii=False)
         return json_events
     
     def json_to_ical(self, json_events):
         self.cal = Calendar()
         events_list = json.loads(json_events, object_hook=self._datetime_parser)
-        print(events_list)
         for event_dict in events_list:
             event = Event()
             for key in event_dict:
@@ -54,8 +56,7 @@ class CalEditor(object):
     def export_calendar(self, filename):
         self.cal.add("prodid", "-//Fixed MyCourses ical export//")
         self.cal.add("version", "2.0")
-        self.print_cal(self.cal)
-        self._write_file(filename, self.cal.to_ical())
+        self._write_file(filename, self.cal.to_ical(), is_bytes=True)
         
     def fix_calendar(self):
         if self.cal_str:
@@ -77,13 +78,18 @@ class CalEditor(object):
                 if "rrule" in event:
                     self.cal.add_component(event)
                     
-    def _write_file(self, filename, str):
+    def _write_file(self, filename, data, is_json=False, is_bytes=False):
         directory = 'export'
+        mode = 'w'
+        if is_bytes:
+            mode = 'wb'
         if not os.path.exists(directory):
             os.makedirs(directory)
-        f = open(os.path.join(directory, filename), 'wb')
-        f.write(str)
-        f.close()
+        with open(os.path.join(directory, filename), mode) as writefile:
+            if is_json:
+                json.dump(data, writefile, ensure_ascii=False, indent=3)
+            else:
+                writefile.write(data)
                 
     def _group_events(self, events):
         sim_list = []
@@ -135,6 +141,6 @@ editor.load_calendar("icalexport.ics")
 editor.fix_calendar()
 editor.merge_recurring_events()
 editor.export_json("jsontest.json")
-#json_events = editor.export_json_str(editor.cal)
-#cal = editor.json_to_ical(json_events)
-#editor.export_calendar("testcal.ics")
+json_events = editor.export_json_str(editor.cal)
+cal = editor.json_to_ical(json_events)
+editor.export_calendar("testcal.ics")

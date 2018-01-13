@@ -1,0 +1,818 @@
+[
+   {
+      "UID": "1653700@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, L1, ELEC-C3210",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, E-Sali / Y124",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-08T02:20:17+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-08T10:15:00+00:00",
+      "DTEND": "2018-01-08T12:00:00+00:00",
+      "CATEGORIES": "ELEC-C3210 L1",
+      "LOCATION": "E-Sali / Y124, Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 5
+      }
+   },
+   {
+      "UID": "1617075@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, L1, ELEC-C3210",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, E-Sali / Y124",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:34:29+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-19T10:15:00+00:00",
+      "DTEND": "2018-02-19T12:00:00+00:00",
+      "CATEGORIES": "ELEC-C3210 L1",
+      "LOCATION": "E-Sali / Y124, Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 3
+      }
+   },
+   {
+      "UID": "1645073@mycourses.aalto.fi",
+      "SUMMARY": "Web Software Development, L01, CS-C3170",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, TU2 / 2005 (TU2), TUAS",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-09T02:38:43+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-09T12:15:00+00:00",
+      "DTEND": "2018-01-09T14:00:00+00:00",
+      "CATEGORIES": "CS-C3170 L01",
+      "LOCATION": "TU2 / 2005 (TU2), TUAS, Maarintie 8",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1650600@mycourses.aalto.fi",
+      "SUMMARY": "Web Software Development, L01, CS-C3170",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, TU2 / 2005 (TU2), TUAS",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:24:40+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-30T12:15:00+00:00",
+      "DTEND": "2018-01-30T14:00:00+00:00",
+      "CATEGORIES": "CS-C3170 L01",
+      "LOCATION": "TU2 / 2005 (TU2), TUAS, Maarintie 8",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 2
+      }
+   },
+   {
+      "UID": "1740375@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, ELEC-C3210",
+      "DESCRIPTION": "Feedback Luentopäivä jatkossa opens",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T10:11:54+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-10T10:05:00+00:00",
+      "DTEND": "2018-01-10T10:05:00+00:00",
+      "CATEGORIES": "ELEC-C3210",
+      "LOCATION": "",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1618793@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, L1, ELEC-C3210",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, E-Sali / Y124",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:26:51+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-10T12:15:00+00:00",
+      "DTEND": "2018-01-10T14:00:00+00:00",
+      "CATEGORIES": "ELEC-C3210 L1",
+      "LOCATION": "E-Sali / Y124, Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 5
+      }
+   },
+   {
+      "UID": "1656555@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, L1, ELEC-C3210",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, E-Sali / Y124",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:29:49+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-21T12:15:00+00:00",
+      "DTEND": "2018-02-21T14:00:00+00:00",
+      "CATEGORIES": "ELEC-C3210 L1",
+      "LOCATION": "E-Sali / Y124, Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 3
+      }
+   },
+   {
+      "UID": "1635758@mycourses.aalto.fi",
+      "SUMMARY": "Johdatus opiskeluun Sähkö, L1, ELEC-A0110",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, AS2 / 2006 (AS2)",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:29:06+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-10T12:15:00+00:00",
+      "DTEND": "2018-01-10T13:45:00+00:00",
+      "CATEGORIES": "ELEC-A0110 L1",
+      "LOCATION": "AS2 / 2006 (AS2)",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1693963@mycourses.aalto.fi",
+      "SUMMARY": "Johdatus opiskeluun Sähkö, ELEC-A0110",
+      "DESCRIPTION": "Tietojärjestelmien harjoitustehtävät (8.9.2017) (Quiz closes)",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-03T10:33:27+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-10T21:59:00+00:00",
+      "DTEND": "2018-01-10T21:59:00+00:00",
+      "CATEGORIES": "ELEC-A0110",
+      "LOCATION": "",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1618787@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, H2, ELEC-C3210",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, U410b (U410b)",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:29:27+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-11T08:15:00+00:00",
+      "DTEND": "2018-01-11T10:00:00+00:00",
+      "CATEGORIES": "ELEC-C3210 H2",
+      "LOCATION": "U410b (U410b), Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 5
+      }
+   },
+   {
+      "UID": "1648949@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, H2, ELEC-C3210",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, U410b (U410b)",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:33:35+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-22T08:15:00+00:00",
+      "DTEND": "2018-02-22T10:00:00+00:00",
+      "CATEGORIES": "ELEC-C3210 H2",
+      "LOCATION": "U410b (U410b), Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 3
+      }
+   },
+   {
+      "UID": "1640356@mycourses.aalto.fi",
+      "SUMMARY": "Web Software Development, H01, CS-C3170",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, A140, Tietotekniikka",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:29:14+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-11T08:15:00+00:00",
+      "DTEND": "2018-01-11T10:00:00+00:00",
+      "CATEGORIES": "CS-C3170 H01",
+      "LOCATION": "A140, Tietotekniikka, Konemiehentie 2",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 5
+      }
+   },
+   {
+      "UID": "1650503@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, H3, ELEC-C3210",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, U356 (U356)",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:33:31+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-11T10:15:00+00:00",
+      "DTEND": "2018-01-11T12:00:00+00:00",
+      "CATEGORIES": "ELEC-C3210 H3",
+      "LOCATION": "U356 (U356), Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 3
+      }
+   },
+   {
+      "UID": "1653583@mycourses.aalto.fi",
+      "SUMMARY": "Automaatio 2, L1, ELEC-C1220",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, AS1 / 1018 (AS1), TUAS",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:41:52+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-11T10:15:00+00:00",
+      "DTEND": "2018-01-11T12:00:00+00:00",
+      "CATEGORIES": "ELEC-C1220 L1",
+      "LOCATION": "AS1 / 1018 (AS1), TUAS, Maarintie 8",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 5
+      }
+   },
+   {
+      "UID": "1656518@mycourses.aalto.fi",
+      "SUMMARY": "Automaatio 2, L1, ELEC-C1220",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, AS1 / 1018 (AS1), TUAS",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:22:08+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-22T10:15:00+00:00",
+      "DTEND": "2018-02-22T12:00:00+00:00",
+      "CATEGORIES": "ELEC-C1220 L1",
+      "LOCATION": "AS1 / 1018 (AS1), TUAS, Maarintie 8",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 3
+      }
+   },
+   {
+      "UID": "1640748@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, L01, ELEC-A7100",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, AS2 / 2006 (AS2), TUAS",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:25:39+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-11T10:15:00+00:00",
+      "DTEND": "2018-01-11T12:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 L01",
+      "LOCATION": "AS2 / 2006 (AS2), TUAS, Maarintie 8",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 5
+      }
+   },
+   {
+      "UID": "1651932@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, L01, ELEC-A7100",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, AS2 / 2006 (AS2), TUAS",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:35:46+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-22T10:15:00+00:00",
+      "DTEND": "2018-02-22T12:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 L01",
+      "LOCATION": "AS2 / 2006 (AS2), TUAS, Maarintie 8",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 3
+      }
+   },
+   {
+      "UID": "1647608@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, H1, ELEC-C3210",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, U119",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:38:09+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-12T08:15:00+00:00",
+      "DTEND": "2018-01-12T10:00:00+00:00",
+      "CATEGORIES": "ELEC-C3210 H1",
+      "LOCATION": "U119, Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 5
+      }
+   },
+   {
+      "UID": "1633192@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, H1, ELEC-C3210",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, U119",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:19:19+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-23T08:15:00+00:00",
+      "DTEND": "2018-02-23T10:00:00+00:00",
+      "CATEGORIES": "ELEC-C3210 H1",
+      "LOCATION": "U119, Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 3
+      }
+   },
+   {
+      "UID": "1630649@mycourses.aalto.fi",
+      "SUMMARY": "Web Software Development, H02, CS-C3170",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Y342a (Y342a)",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:27:09+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-12T10:15:00+00:00",
+      "DTEND": "2018-01-12T12:00:00+00:00",
+      "CATEGORIES": "CS-C3170 H02",
+      "LOCATION": "Y342a (Y342a), Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 2
+      }
+   },
+   {
+      "UID": "1623383@mycourses.aalto.fi",
+      "SUMMARY": "Web Software Development, H02, CS-C3170",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Y342a (Y342a)",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:26:31+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-02T10:15:00+00:00",
+      "DTEND": "2018-02-02T12:00:00+00:00",
+      "CATEGORIES": "CS-C3170 H02",
+      "LOCATION": "Y342a (Y342a), Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 2
+      }
+   },
+   {
+      "UID": "1638959@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, H4, ELEC-C3210",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, U119",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:22:28+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-12T10:15:00+00:00",
+      "DTEND": "2018-01-12T12:00:00+00:00",
+      "CATEGORIES": "ELEC-C3210 H4",
+      "LOCATION": "U119, Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 5
+      }
+   },
+   {
+      "UID": "1638272@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, H4, ELEC-C3210",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, U119",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:25:17+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-23T10:15:00+00:00",
+      "DTEND": "2018-02-23T12:00:00+00:00",
+      "CATEGORIES": "ELEC-C3210 H4",
+      "LOCATION": "U119, Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 3
+      }
+   },
+   {
+      "UID": "1621793@mycourses.aalto.fi",
+      "SUMMARY": "Automaatio- ja systeemitekn, L01, ELEC-C1310",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, AS2 / 2006 (AS2)",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:31:17+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-12T12:15:00+00:00",
+      "DTEND": "2018-01-12T14:00:00+00:00",
+      "CATEGORIES": "ELEC-C1310 L01",
+      "LOCATION": "AS2 / 2006 (AS2)",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1629016@mycourses.aalto.fi",
+      "SUMMARY": "Automaatio- ja systeemitekn, L01, ELEC-C1310",
+      "DESCRIPTION": "L01 Luento/Lecture/Föreläsning, Luento/Lecture/Föreläsning",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:27:07+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-14T21:45:00+00:00",
+      "DTEND": "2018-01-14T21:46:00+00:00",
+      "CATEGORIES": "ELEC-C1310 L01",
+      "LOCATION": "",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 8
+      }
+   },
+   {
+      "UID": "1740376@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, ELEC-C3210",
+      "DESCRIPTION": "Feedback Luentopäivä jatkossa closes",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T10:11:55+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-14T21:55:00+00:00",
+      "DTEND": "2018-01-14T21:55:00+00:00",
+      "CATEGORIES": "ELEC-C3210",
+      "LOCATION": "",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1737659@mycourses.aalto.fi",
+      "SUMMARY": "Johdatus opiskeluun Sähkö, ELEC-A0110",
+      "DESCRIPTION": "Tiedonhaun oppimistehtävät (Quiz closes)",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2017-12-21T06:17:32+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-14T21:59:00+00:00",
+      "DTEND": "2018-01-14T21:59:00+00:00",
+      "CATEGORIES": "ELEC-A0110",
+      "LOCATION": "",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1656504@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, H01, ELEC-A7100",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Maari A / 167 (Maari-A), Maarintalo",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:33:43+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-15T08:15:00+00:00",
+      "DTEND": "2018-01-15T10:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 H01",
+      "LOCATION": "Maari A / 167 (Maari-A), Maarintalo, Sähkömiehentie 3",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 8
+      }
+   },
+   {
+      "UID": "1738759@mycourses.aalto.fi",
+      "SUMMARY": "Automaatio 2, ELEC-C1220",
+      "DESCRIPTION": "Round_U0",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T08:14:00+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-15T10:00:00+00:00",
+      "DTEND": "2018-01-15T10:00:00+00:00",
+      "CATEGORIES": "ELEC-C1220",
+      "LOCATION": "",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1627543@mycourses.aalto.fi",
+      "SUMMARY": "Opintojen suunnittelu, L01, ELEC-A0120",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, AS2 / 2006 (AS2), TUAS",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:25:53+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-16T12:15:00+00:00",
+      "DTEND": "2018-01-16T14:00:00+00:00",
+      "CATEGORIES": "ELEC-A0120 L01",
+      "LOCATION": "AS2 / 2006 (AS2), TUAS, Maarintie 8",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1622742@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, H02, ELEC-A7100",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Maari A / 167 (Maari-A), Maarintalo",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:19:48+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-16T12:15:00+00:00",
+      "DTEND": "2018-01-16T14:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 H02",
+      "LOCATION": "Maari A / 167 (Maari-A), Maarintalo, Sähkömiehentie 3",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 8
+      }
+   },
+   {
+      "UID": "1620774@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, H02, ELEC-A7100",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Mikroluokka 3 (Maari-C), Maarintalo",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:41:00+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-16T12:15:00+00:00",
+      "DTEND": "2018-01-16T14:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 H02",
+      "LOCATION": "Mikroluokka 3 (Maari-C), Maarintalo, Sähkömiehentie 3",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 8
+      }
+   },
+   {
+      "UID": "1651245@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, H07, ELEC-A7100",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Maari A / 167 (Maari-A), Maarintalo",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:40:29+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-17T10:15:00+00:00",
+      "DTEND": "2018-01-17T14:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 H07",
+      "LOCATION": "Maari A / 167 (Maari-A), Maarintalo, Sähkömiehentie 3",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 8
+      }
+   },
+   {
+      "UID": "1654862@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, H07, ELEC-A7100",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Mikroluokka 3 (Maari-C), Maarintalo",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:37:17+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-17T10:15:00+00:00",
+      "DTEND": "2018-01-17T14:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 H07",
+      "LOCATION": "Mikroluokka 3 (Maari-C), Maarintalo, Sähkömiehentie 3",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 8
+      }
+   },
+   {
+      "UID": "1656441@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, H03, ELEC-A7100",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Mikroluokka 3 (Maari-C), Maarintalo",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:27:03+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-18T12:15:00+00:00",
+      "DTEND": "2018-01-18T14:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 H03",
+      "LOCATION": "Mikroluokka 3 (Maari-C), Maarintalo, Sähkömiehentie 3",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 8
+      }
+   },
+   {
+      "UID": "1651941@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, H03, ELEC-A7100",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Maari A / 167 (Maari-A), Maarintalo",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:33:28+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-18T12:15:00+00:00",
+      "DTEND": "2018-01-18T14:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 H03",
+      "LOCATION": "Maari A / 167 (Maari-A), Maarintalo, Sähkömiehentie 3",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 8
+      }
+   },
+   {
+      "UID": "1617586@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, H06, ELEC-A7100",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Maari A / 167 (Maari-A), Maarintalo",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:41:11+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-18T14:15:00+00:00",
+      "DTEND": "2018-01-18T16:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 H06",
+      "LOCATION": "Maari A / 167 (Maari-A), Maarintalo, Sähkömiehentie 3",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 8
+      }
+   },
+   {
+      "UID": "1627654@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, H04, ELEC-A7100",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Maari A / 167 (Maari-A), Maarintalo",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:38:03+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-19T08:15:00+00:00",
+      "DTEND": "2018-01-19T10:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 H04",
+      "LOCATION": "Maari A / 167 (Maari-A), Maarintalo, Sähkömiehentie 3",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 8
+      }
+   },
+   {
+      "UID": "1648339@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, H04, ELEC-A7100",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Mikroluokka 3 (Maari-C), Maarintalo",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:23:24+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-19T08:15:00+00:00",
+      "DTEND": "2018-01-19T10:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 H04",
+      "LOCATION": "Mikroluokka 3 (Maari-C), Maarintalo, Sähkömiehentie 3",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 8
+      }
+   },
+   {
+      "UID": "1634326@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, H05, ELEC-A7100",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Maari A / 167 (Maari-A), Maarintalo",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:18:25+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-19T10:15:00+00:00",
+      "DTEND": "2018-01-19T12:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 H05",
+      "LOCATION": "Maari A / 167 (Maari-A), Maarintalo, Sähkömiehentie 3",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 8
+      }
+   },
+   {
+      "UID": "1634592@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, H05, ELEC-A7100",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Mikroluokka 3 (Maari-C), Maarintalo",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:36:40+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-19T10:15:00+00:00",
+      "DTEND": "2018-01-19T12:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 H05",
+      "LOCATION": "Mikroluokka 3 (Maari-C), Maarintalo, Sähkömiehentie 3",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 8
+      }
+   },
+   {
+      "UID": "1637224@mycourses.aalto.fi",
+      "SUMMARY": "Web Software Development, H02, CS-C3170",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, Y342a (Y342a)",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:41:12+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-26T12:15:00+00:00",
+      "DTEND": "2018-01-26T14:00:00+00:00",
+      "CATEGORIES": "CS-C3170 H02",
+      "LOCATION": "Y342a (Y342a), Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1735673@mycourses.aalto.fi",
+      "SUMMARY": "Opintojen suunnittelu, ELEC-A0120",
+      "DESCRIPTION": "Korvaavien suoritusten palautus",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2017-12-08T14:53:37+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-31T14:00:00+00:00",
+      "DTEND": "2018-01-31T14:00:00+00:00",
+      "CATEGORIES": "ELEC-A0120",
+      "LOCATION": "",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1664718@mycourses.aalto.fi",
+      "SUMMARY": "Johdatus opiskeluun Sähkö, ELEC-A0110",
+      "DESCRIPTION": "Välipalautus 1",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-03T10:35:42+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-01-31T21:55:00+00:00",
+      "DTEND": "2018-01-31T21:55:00+00:00",
+      "CATEGORIES": "ELEC-A0110",
+      "LOCATION": "",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1647548@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, H3, ELEC-C3210",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, U5 / U147",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:40:37+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-01T10:15:00+00:00",
+      "DTEND": "2018-02-01T12:00:00+00:00",
+      "CATEGORIES": "ELEC-C3210 H3",
+      "LOCATION": "U5 / U147, Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 2
+      }
+   },
+   {
+      "UID": "1738348@mycourses.aalto.fi",
+      "SUMMARY": "Automaatio 2, ELEC-C1220",
+      "DESCRIPTION": "Harjoitus 3 palautus",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-02T10:10:41+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-11T21:55:00+00:00",
+      "DTEND": "2018-02-11T21:55:00+00:00",
+      "CATEGORIES": "ELEC-C1220",
+      "LOCATION": "",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1653617@mycourses.aalto.fi",
+      "SUMMARY": "Web Software Development, (KT), CS-C3170",
+      "DESCRIPTION": "Kurssitentti/Course examination/Kurssitentti, C-Sali / Y205",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:21:16+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-13T07:00:00+00:00",
+      "DTEND": "2018-02-13T10:00:00+00:00",
+      "CATEGORIES": "CS-C3170 (KT)",
+      "LOCATION": "C-Sali / Y205, Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1631936@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, VK01, ELEC-C3210",
+      "DESCRIPTION": "Välikoe/Midterm exam/Mellanförhör, AS2 / 2006 (AS2), TUAS",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:23:32+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-14T12:00:00+00:00",
+      "DTEND": "2018-02-14T15:00:00+00:00",
+      "CATEGORIES": "ELEC-C3210 VK01",
+      "LOCATION": "AS2 / 2006 (AS2), TUAS, Maarintie 8",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1641159@mycourses.aalto.fi",
+      "SUMMARY": "C-ohjelmoinnin peruskurssi, L01, ELEC-A7100",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, TU2 / 2005 (TU2), TUAS",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:23:36+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-15T10:15:00+00:00",
+      "DTEND": "2018-02-15T12:00:00+00:00",
+      "CATEGORIES": "ELEC-A7100 L01",
+      "LOCATION": "TU2 / 2005 (TU2), TUAS, Maarintie 8",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1628578@mycourses.aalto.fi",
+      "SUMMARY": "Automaatio 2, L1, ELEC-C1220",
+      "DESCRIPTION": "Luento/Lecture/Föreläsning, AS2 / 2006 (AS2), TUAS",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:29:33+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-15T10:15:00+00:00",
+      "DTEND": "2018-02-15T12:00:00+00:00",
+      "CATEGORIES": "ELEC-C1220 L1",
+      "LOCATION": "AS2 / 2006 (AS2), TUAS, Maarintie 8",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 1
+      }
+   },
+   {
+      "UID": "1642633@mycourses.aalto.fi",
+      "SUMMARY": "Materiaalien ominaisuudet, H3, ELEC-C3210",
+      "DESCRIPTION": "Harjoitukset/Exercises/Övningar, U358 (U358)",
+      "CLASS": "PUBLIC",
+      "LAST-MODIFIED": "2018-01-10T02:19:58+00:00",
+      "DTSTAMP": "2018-01-10T15:25:44+00:00",
+      "DTSTART": "2018-02-22T10:15:00+00:00",
+      "DTEND": "2018-02-22T12:00:00+00:00",
+      "CATEGORIES": "ELEC-C3210 H3",
+      "LOCATION": "U358 (U358), Otakaari 1",
+      "RRULE": {
+         "FREQ": "WEEKLY",
+         "COUNT": 3
+      }
+   }
+]
