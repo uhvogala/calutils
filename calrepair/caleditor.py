@@ -19,6 +19,9 @@ class CalEditor(object):
         
     def load_calendar(self, filename):
         with open(filename, 'r') as icalfile:
+            self.load_calendar_file(icalfile)
+            
+    def load_calendar_file(self, icalfile):
             self.cal_str = self.cal.from_ical(icalfile.read())
             
     def export_json(self, filename):
@@ -51,12 +54,19 @@ class CalEditor(object):
                 event.add(key, event_dict[key])
             self.cal.add_component(event)
         return self.cal
-            
+    
+    def is_empty(self):
+        return len(self.cal.subcomponents) == 0
             
     def export_calendar(self, filename):
+        self._write_file(filename,
+                          self.export_calendar_str(), 
+                          is_bytes=True)
+        
+    def export_calendar_str(self):
         self.cal.add("prodid", "-//Fixed MyCourses ical export//")
         self.cal.add("version", "2.0")
-        self._write_file(filename, self.cal.to_ical(), is_bytes=True)
+        return self.cal.to_ical()
         
     def fix_calendar(self):
         if self.cal_str:
@@ -135,7 +145,7 @@ class CalEditor(object):
                 pass
         return json_dict
     
-    
+'''
 editor = CalEditor()
 editor.load_calendar("icalexport.ics")
 editor.fix_calendar()
@@ -144,3 +154,4 @@ editor.export_json("jsontest.json")
 json_events = editor.export_json_str(editor.cal)
 cal = editor.json_to_ical(json_events)
 editor.export_calendar("testcal.ics")
+'''

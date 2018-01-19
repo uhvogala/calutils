@@ -1,0 +1,15 @@
+<div id="load-container" ondrop="ng_scope().drop_handler(event);"
+		ondragend="ng_scope().dragleave_handler(event);" 
+		ondragover="ng_scope().dragover_handler(event);" 
+		ondragleave="ng_scope().dragleave_handler(event);">
+	<div id="drop-box" >
+		<div ng-if="isDragged || fileAccepted" class="drop-area" id="drag-plus"></div>
+		<i ng-if="isDragged" class="material-icons drop-area jump" id="drag-plus-i">add_circle</i>
+		<i ng-if="fileAccepted" class="material-icons jump" id="file-accept-i">check_circle</i>
+		<p class="upload-text">Drop .ics file to start uploading </p>
+		<p class="upload-text">or</p>
+		<p class="upload-text-mobile">Select .ics file</p>
+		<input class="ng-hide" id="input-file-id" type="file" onchange="ng_scope().file_handler(this.files)"/>
+		<label for="input-file-id" class="md-button md-raised md-primary upload-btn">Choose File</label>
+	</div>
+</div>

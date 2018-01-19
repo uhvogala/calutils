@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	
+		<meta charset="utf-8">
+		<base href="/">
+		<!-- load angular and angular route via CDN -->
+		<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.css">
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="/calapp/style.css">
+		
+		<!-- Angular Material requires Angular.js Libraries -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-route.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-aria.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-messages.min.js"></script>
+		
+		<!-- Angular Material Library -->
+		<script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.js"></script>
+		<script type="text/javascript" src="/calapp/interface.js"></script>
+		
+	</head>
+	<body ng-app="calendarApp" id="page-background">
+	
+	    <!-- HEADER AND NAVBAR -->
+		<header>
+		</header>
+	
+	   <!-- MAIN CONTENT AND INJECTED VIEWS -->
+		<div id="main" ng-controller="mainController">
+			<div id="navigator">
+				<a class="nav" ng-class="{active: page_class == 'status-load'}" href="/calapp">LOAD</a>
+				<a class="nav" ng-class="{active: page_class == 'status-edit'}" href="/calapp/edit">EDIT</a>			
+			</div>
+			<md-progress-linear md-mode="determinate" value=[[progress]]></md-progress-linear>
+			<div id="page-outer-container">
+				<div id="page-container" ng-view></div>			
+			</div>
+		</div>
+	
+	</body>
+</html>
